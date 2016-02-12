@@ -1,5 +1,7 @@
 a{
 	color: #FFF;
+	font-size: 1em;
+	text-align: left;
 	text-decoration: none;
 }
 a:visited{
@@ -15,8 +17,9 @@ body{
 	padding: 0;
 }
 header{
-	background: transparent;
+	background: #013351;
 	border-bottom: solid 5px #64A8D1;
+	box-shadow: 0 0 1.5em white;
 	margin: 0;
 	padding: 1em 0;
 	width: 100%;
